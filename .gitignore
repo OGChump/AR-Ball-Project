@@ -1,0 +1,30 @@
+ECHO is on.
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+cv_env/
+
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+Packages/
+ProjectSettings/Assembly-CSharp.csproj
+ProjectSettings/Assembly-CSharp-Editor.csproj
+*.csproj
+*.sln
+*.user
+*.unitypackage
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
